@@ -1,0 +1,23 @@
+
+#keputih
+lat_from = -7.294080
+long_from = 112.801598
+
+#mulyosari surabaya
+lat_to = -7.265441
+long_to = 112.797661
+
+port = 10001
+
+
+#perak surabaya
+lat_to = -7.228549
+long_to = 112.731391
+
+port = 10002
+
+#gresik
+lat_to = -7.155029
+long_to = 112.572189
+
+port = 10003
